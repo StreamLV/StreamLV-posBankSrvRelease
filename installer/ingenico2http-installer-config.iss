@@ -27,15 +27,15 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "ukrainian"; MessagesFile: "compiler:Languages\Ukrainian.isl"
 
 [Files]
-Source: "F:\Bases\Koshik\bank\service_new\config.json"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\ingenico2http.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\ingenico2http-service.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\ingenico2http-service.xml"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\service-install.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\service-refresh.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\service-restart.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\service-start.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\service-stop.bat"; DestDir: "{app}"; Flags: ignoreversion
-Source: "F:\Bases\Koshik\bank\service_new\service-uninstall.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\config.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\ingenico2http.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\ingenico2http-service.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\ingenico2http-service.xml"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\service-install.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\service-refresh.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\service-restart.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\service-start.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\service-stop.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "F:\Bases\Koshik\bank\StreamLV-posBankSrvRelease\service-uninstall.bat"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
